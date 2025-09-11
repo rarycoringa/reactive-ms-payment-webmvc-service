@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.ufrn</groupId>
-	<artifactId>payment</artifactId>
+	<artifactId>alert</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>payment</name>
-	<description>Payment Service</description>
+	<name>alert</name>
+	<description>Alert Service</description>
 	<url/>
 	<licenses>
 		<license/>

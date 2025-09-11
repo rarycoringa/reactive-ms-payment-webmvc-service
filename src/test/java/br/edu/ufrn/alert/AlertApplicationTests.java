@@ -1,10 +1,10 @@
-package br.edu.ufrn.payment;
+package br.edu.ufrn.alert;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PaymentApplicationTests {
+class AlertApplicationTests {
 
 	@Test
 	void contextLoads() {

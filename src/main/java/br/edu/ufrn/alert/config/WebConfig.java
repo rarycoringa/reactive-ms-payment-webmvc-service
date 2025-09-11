@@ -1,4 +1,4 @@
-package br.edu.ufrn.payment.config;
+package br.edu.ufrn.alert.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.bind.annotation.RestController;
